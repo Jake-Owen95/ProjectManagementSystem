@@ -1,2 +1,4 @@
 # ProjectManagementSystem
 A system designed to automate some of the data storing, retrieving and editing for company projects.
+
+The system has a log in section. Admin members can register new memebers. Log in requires a user name and password. Once logged in, users can choose from an array of options on the home menu. Including all the projects they are associated with. All projects the company has. Projects that are over due date and projects that are to be completed and their deadlines. Project info displays things like project name, project memebers, erf numbers(designed for an architecture firm), client details as well as project deadlines ect. Users are able to mark projects as complete and they are then associated with the completed prjoects option. I am busy working on getting some basic anaylitcs going where users can see stats about projects and various company data.  
