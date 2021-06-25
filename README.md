@@ -4,6 +4,7 @@ A system designed to automate data storing, retrieving and editing for company p
 # Features 
 
 Admin and User authentication. 
+
 Home Menu
 - My projects
 - All projects
