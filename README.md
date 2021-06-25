@@ -15,4 +15,6 @@ Home Menu
 
 Project Info Displays: project name, project memebers, erf numbers, client details, amounts paid and outstanding, project deadlines ect. 
 
+Admin members have full CRUD features and users have partial CRUD features. 
+
 
